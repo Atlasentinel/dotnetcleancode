@@ -1,0 +1,14 @@
+C:\Users\NOE\Desktop\dotnetCleanCode\bin\Debug\net8.0\dotnetCleanCode.exe
+C:\Users\NOE\Desktop\dotnetCleanCode\bin\Debug\net8.0\dotnetCleanCode.deps.json
+C:\Users\NOE\Desktop\dotnetCleanCode\bin\Debug\net8.0\dotnetCleanCode.runtimeconfig.json
+C:\Users\NOE\Desktop\dotnetCleanCode\bin\Debug\net8.0\dotnetCleanCode.dll
+C:\Users\NOE\Desktop\dotnetCleanCode\bin\Debug\net8.0\dotnetCleanCode.pdb
+C:\Users\NOE\Desktop\dotnetCleanCode\obj\Debug\net8.0\dotnetCleanCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOE\Desktop\dotnetCleanCode\obj\Debug\net8.0\dotnetCleanCode.AssemblyInfoInputs.cache
+C:\Users\NOE\Desktop\dotnetCleanCode\obj\Debug\net8.0\dotnetCleanCode.AssemblyInfo.cs
+C:\Users\NOE\Desktop\dotnetCleanCode\obj\Debug\net8.0\dotnetCleanCode.csproj.CoreCompileInputs.cache
+C:\Users\NOE\Desktop\dotnetCleanCode\obj\Debug\net8.0\dotnetCleanCode.dll
+C:\Users\NOE\Desktop\dotnetCleanCode\obj\Debug\net8.0\refint\dotnetCleanCode.dll
+C:\Users\NOE\Desktop\dotnetCleanCode\obj\Debug\net8.0\dotnetCleanCode.pdb
+C:\Users\NOE\Desktop\dotnetCleanCode\obj\Debug\net8.0\dotnetCleanCode.genruntimeconfig.cache
+C:\Users\NOE\Desktop\dotnetCleanCode\obj\Debug\net8.0\ref\dotnetCleanCode.dll
