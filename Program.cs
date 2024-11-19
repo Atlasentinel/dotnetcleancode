@@ -18,7 +18,7 @@ namespace DotNetCleanCode
             Console.WriteLine("L'age du client est de " + firstUser.GetAge());
             Console.WriteLine("L'age du client est de " + firstUser.GetGenre());
             
-            if(compte.isAllowToOwnAccount(firstUser)){
+            if(BankAccount.IsAllowToOwnAccount(firstUser)){
                 compte.GenerateIban();
                 compte.AddSold(200);
                 compte.RemoveSold(50);
@@ -137,7 +137,7 @@ namespace DotNetCleanCode
             return _iban;
         }
 
-         public static bool isAllowToOwnAccount(User user)
+         public static bool IsAllowToOwnAccount(User user)
         {
             return (user.GetAge() >= 16 || user.GetGenre() == "Homme");
         }
