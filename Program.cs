@@ -137,7 +137,7 @@ namespace DotNetCleanCode
             return _iban;
         }
 
-         public bool isAllowToOwnAccount(User user)
+         public static bool isAllowToOwnAccount(User user)
         {
             return (user.GetAge() >= 16 || user.GetGenre() == "Homme");
         }
