@@ -12,3 +12,4 @@ C:\Users\NOE\Desktop\dotnetCleanCode\obj\Debug\net8.0\refint\dotnetCleanCode.dll
 C:\Users\NOE\Desktop\dotnetCleanCode\obj\Debug\net8.0\dotnetCleanCode.pdb
 C:\Users\NOE\Desktop\dotnetCleanCode\obj\Debug\net8.0\dotnetCleanCode.genruntimeconfig.cache
 C:\Users\NOE\Desktop\dotnetCleanCode\obj\Debug\net8.0\ref\dotnetCleanCode.dll
+C:\Users\NOE\Desktop\dotnetCleanCode\obj\Debug\net8.0\dotnetCleanCode.sourcelink.json
